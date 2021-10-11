@@ -1,3 +1,3 @@
-module github.com/zsefvlol/timezonemapper
+module github.com/Lionparcel/timezonemapper
 
 go 1.12
